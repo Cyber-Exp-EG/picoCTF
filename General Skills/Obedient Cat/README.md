@@ -7,3 +7,5 @@ This is [Link-Lab](https://play.picoctf.org/practice/challenge/147?category=5&pa
 2- Try open this file with `Notepad`, then copy past the `flag` --> `picoCTF{s4n1ty_v3r1f13d_2fd6ed29}`.
 
 ![1](screenshots/1.png)
+
+<br />
