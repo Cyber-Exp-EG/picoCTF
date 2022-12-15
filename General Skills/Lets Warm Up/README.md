@@ -6,3 +6,5 @@ This is [Link-Lab](https://play.picoctf.org/practice/challenge/22).
 
 ![0](screenshots/0.png)
 <br />
+
+2- flag --> `picoCTF{p}`
